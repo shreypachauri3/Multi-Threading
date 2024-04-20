@@ -1,4 +1,4 @@
-![pic3-final](https://github.com/shreypachauri3/Multi-Threading/assets/78973003/10a10769-0123-493d-99b6-89df47305f52)# Methodology
+# Methodology
 
 The methodology involved executing matrix multiplication tasks with varying numbers of threads on a system with 8 CPU threads. The tasks were performed using Python's `threading` module, where each thread performed matrix multiplication independently. The number of threads ranged from 1 to 8, and for each configuration, the execution time was measured.
 
